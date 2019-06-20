@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="http://cwrc.ca/templates/css/tei.css"?>
+<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <author></author>
+            </titleStmt>
+            <editionStmt>
+                <p></p>
+            </editionStmt>
+            <extent></extent>
+            <publicationStmt>
+                <publisher></publisher>
+                <address></address>
+            </publicationStmt>
+            <seriesStmt>
+                <p></p>
+            </seriesStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <revisionDesc></revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+          <div type="chapter" xml:lang="en-CA">
+              <head> Gothic Romance in <placeName cert="definite" ref="http://www.geonames.org/6115047">Quebec</placeName></head>
+                    <byline>Engaging English and French in Nineteenth-Century English-Canadian
+                        Fiction by Women</byline>
+              <docAuthor> <persName cert="definite" ref="http://viaf.org/viaf/36720142">Lindsey McMaster</persName> </docAuthor>
+                    <p xml:id="p212"> <ref target="#genre_fiction"><ref target="#history"><ref target="#nationality_issue">Readers of <ref target="#theme_or_topic">nineteenth-century English-Canadian fiction</ref> have noted that French <placeName cert="definite" ref="http://www.geonames.org/6251999">Canada</placeName> often figures largely in these works, especially in <ref target="#genre">historical fiction</ref>, which looked to the <q>fall</q> of New France and its aftermath to depict Canada in its formative moments and to assert narratives that metaphorically presaged its future development.</ref> If we look back to the eighteenth century, <persName cert="definite" ref="http://viaf.org/viaf/5193747">Frances Brooke</persName> may be said to have originated the genre in <title level="m" cert="definite" ref="http://viaf.org/viaf/309259314">The History of Emily Montague</title> (1769), set contemporaneously for Brooke, in <placeName cert="definite" ref="http://www.geonames.org/6115047">Quebec</placeName> shortly after the <ref target="#theme_or_topic">British Conquest</ref>. But it is in the nineteenth century that the interest of English-Canadian writers came to be focused intently and insistently upon this point in Canadian history, a time which, in these writers' works, provided the country with its own romantic and Gothic past.</ref></ref> </p>
+                </div>  
+        </body>
+        
+    </text>
+</TEI>
